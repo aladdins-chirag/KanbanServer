@@ -1,4 +1,3 @@
-require('dotenv').config()
 const app = require('./app')
 const dbConnect = require('./DB/dbConnect')
 const User = require('./Model/UserModel')
