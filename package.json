@@ -4,7 +4,7 @@
   "description": "This is Kanban Backend",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "test": "jest --detectOpenHandles"
   },
   "author": "Arpit Srivastava",
